@@ -28,12 +28,12 @@ $ test-program hello
 <br>
 
 ## reading and example links
-[basics](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/shell_scripts/shell_scripts.html)
+<a href="https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/shell_scripts/shell_scripts.html" target="_blank">basics</a>
 
-[arguments](https://www.lifewire.com/pass-arguments-to-bash-script-2200571)
+<a href="https://www.lifewire.com/pass-arguments-to-bash-script-2200571" target="_blank">arguments</a>
 
-[arrays](https://www.amsys.co.uk/using-arrays-bash/)
+<a href="https://www.amsys.co.uk/using-arrays-bash/" target="_blank">arrays</a>
 
-[array loop with index](https://stackoverflow.com/questions/6723426/looping-over-arrays-printing-both-index-and-value)
+<a href="https://stackoverflow.com/questions/6723426/looping-over-arrays-printing-both-index-and-value" target="_blank">array loop with index</a>
 
 
