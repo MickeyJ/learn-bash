@@ -7,6 +7,16 @@ make sure you can execute the all scripts
 ```bash
 $ chmod -R +x ./**/*.sh
 ```
+check your version of python or if it's not installed
+```bash
+$ python -V
+```
+
+if python is not installed follow these instructions
+
+[install homebrew](https://brew.sh/#install)
+
+[install python](https://docs.python-guide.org/starting/install3/osx/)
 
 <br>
 
@@ -29,6 +39,7 @@ $ test-program hello
 <br>
 
 ## reading and example links
+
 [basics](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/shell_scripts/shell_scripts.html)
 
 [arguments](https://www.lifewire.com/pass-arguments-to-bash-script-2200571)
