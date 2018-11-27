@@ -48,4 +48,5 @@ $ test-program hello
 
 [array loop with index](https://stackoverflow.com/questions/6723426/looping-over-arrays-printing-both-index-and-value)
 
+[create app with Automator](https://stackoverflow.com/questions/30854358/mac-osx-allow-for-user-input-in-shell-script-via-gui-or-prompt)
 
