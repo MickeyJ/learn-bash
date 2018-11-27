@@ -3,22 +3,23 @@
 <br>
 
 ## set up
-make sure you can execute the __main.sh__ file
+make sure you can execute the all scripts
 ```bash
-$ chmod +x ./main.sh
+$ chmod -R +x ./**/*.sh
 ```
 
 <br>
 
 ## usage
-run the __main.sh__ file
+run the __main.sh__ or __simple-server/serve.sh__ file
 ```bash
 $ ./main.sh hello
+$ ./simple-server/serve.sh
 ```
 
 <br>
 
-## make script global
+## make a script global
 put the program in `/usr/local/bin` to use globally
 ```bash
 $ sudo cp ./main.sh /usr/local/bin/test-program
