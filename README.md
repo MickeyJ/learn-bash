@@ -18,6 +18,15 @@ $ ./main.sh hello
 
 <br>
 
+## make script global
+put the program in `/usr/local/bin` to use globally
+```bash
+$ sudo cp ./main.sh /usr/local/bin/test-program
+$ test-program hello
+```
+
+<br>
+
 ## reading and example links
 [basics](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/shell_scripts/shell_scripts.html)
 
