@@ -21,19 +21,9 @@ if python is not installed follow these instructions
 <br>
 
 ## usage
-run the __main.sh__ or __simple-server/serve.sh__ file
+run the __main.sh__ file
 ```bash
-$ ./main.sh hello
-$ ./simple-server/serve.sh
-```
-
-<br>
-
-## make a script global
-put the program in `/usr/local/bin` to use globally
-```bash
-$ sudo cp ./main.sh /usr/local/bin/test-program
-$ test-program hello
+$ ./main.sh server
 ```
 
 <br>
